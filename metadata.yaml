@@ -1,0 +1,26 @@
+_repo: Han-Gong-Qiu_52199
+_version: 0.0.1
+alternative_title: Han Gong Qiu
+creator:
+  author:
+    agent_name: Ma, Zhiyuan
+    aliases:
+    - Ma, Dongli
+    - 馬致遠
+    gutenberg_agent_id: '46724'
+    url: http://www.gutenberg.org/2009/agents/46724
+description: ''
+gutenberg_issued: '2016-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52199'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese drama -- Yuan dynasty, 1260-1368'
+- !lcc 'PL'
+- GITenberg
+title: 漢宮秋
+url: http://www.gutenberg.org/ebooks/52199
